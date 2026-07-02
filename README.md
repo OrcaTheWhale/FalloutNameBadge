@@ -8,7 +8,12 @@ This name badge is an over-engineered badge to light up and provide a unique NFC
 
 Utilizing an RP2040 and essentially being a clone board without breaking GPIOs, the FalloutNameBadge utilizes an accelerometer to detect tilt, and based on the tilt, lights up one of four LED's, and one of four links.
 
-FILES NOT FULLY FIXED/WORKING.
+
+IMPORTANT INFORMATION FOR STAFF.
+- IDK WHY MY PCBS DO THIS; THE PCB IS 2 LAYERS ONLY, AND SWITCH VIAS TO TENTED.
+
+
+GO PCB BARE ONLY!!! HOW IS IT POSSIBLE TO RUN OUT OF RP2040S JLCPCB???
 
 
 Front:
