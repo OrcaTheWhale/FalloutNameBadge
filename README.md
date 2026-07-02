@@ -17,7 +17,9 @@ GO PCB BARE ONLY!!! HOW IS IT POSSIBLE TO RUN OUT OF RP2040S JLCPCB???
 
 
 Front:
+
 <img width="432" height="266" alt="image" src="https://github.com/user-attachments/assets/b9e22691-ab90-467c-baf8-e231bd0d9926" />
 
 Back:
+
 <img width="413" height="295" alt="image" src="https://github.com/user-attachments/assets/3c948c67-d710-4c0a-81b7-17dd22ac78c7" />
