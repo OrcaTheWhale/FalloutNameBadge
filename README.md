@@ -8,6 +8,9 @@ This name badge is an over-engineered badge to light up and provide a unique NFC
 
 Utilizing an RP2040 and essentially being a clone board without breaking GPIOs, the FalloutNameBadge utilizes an accelerometer to detect tilt, and based on the tilt, lights up one of four LED's, and one of four links.
 
+FILES NOT FULLY FIXED/WORKING.
+
+
 Front:
 <img width="432" height="266" alt="image" src="https://github.com/user-attachments/assets/b9e22691-ab90-467c-baf8-e231bd0d9926" />
 
