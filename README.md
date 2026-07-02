@@ -1,1 +1,4 @@
 # FalloutNameBadge
+
+Slack: OrcaTheWhale
+
